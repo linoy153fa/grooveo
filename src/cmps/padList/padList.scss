@@ -1,0 +1,28 @@
+@import '../../scss/setup/variables.scss';
+
+.pad-list {
+  display: flex;
+  justify-content: center;
+  padding: 60px 0;
+  font-size: 13px;
+  .grid-list {
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    grid-gap: 60px;
+    transform: rotate(45deg);
+    transition: 0.6s;
+  }
+
+  // $narrow-breakpoint
+  @media (max-width: $narrow-breakpoint) {
+    .grid-list {
+      transform: rotate(0deg);
+    }
+  }
+  @media (max-width: $mobile-breakpoint) {
+    .grid-list {
+      grid-gap: 10px;
+      font-size: 11px;
+    }
+  }
+}

@@ -1,0 +1,33 @@
+@import '../../scss/setup/variables.scss';
+.home {
+  .main-title {
+    text-align: center;
+    margin-top: 70px;
+  }
+  .btns {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .icon {
+    color: $main-color;
+    font-size: 80px;
+    cursor: pointer;
+    &:hover {
+      color: lighten($main-color, 15%);
+      transform: scale(1.1);
+    }
+  }
+}
+
+@media (max-width: $mobile-breakpoint) {
+  .home {
+    .btns {
+      margin-top: 25px;
+    }
+    .icon {
+      font-size: 70px;
+    }
+  }
+}

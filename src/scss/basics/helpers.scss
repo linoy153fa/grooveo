@@ -1,0 +1,17 @@
+.flex,
+.col,
+.justify-center {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
+
+.col {
+  flex-direction: column;
+}
+
+.space-between {
+  justify-content: space-between;
+}
