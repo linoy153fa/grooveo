@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/grooveo/static/css/main.34e5a66b.chunk.css",
+    "main.js": "/grooveo/static/js/main.ce1dfa39.chunk.js",
+    "main.js.map": "/grooveo/static/js/main.ce1dfa39.chunk.js.map",
+    "runtime-main.js": "/grooveo/static/js/runtime-main.eeaa694d.js",
+    "runtime-main.js.map": "/grooveo/static/js/runtime-main.eeaa694d.js.map",
+    "static/js/2.96d34ddb.chunk.js": "/grooveo/static/js/2.96d34ddb.chunk.js",
+    "static/js/2.96d34ddb.chunk.js.map": "/grooveo/static/js/2.96d34ddb.chunk.js.map",
+    "index.html": "/grooveo/index.html",
+    "static/css/main.34e5a66b.chunk.css.map": "/grooveo/static/css/main.34e5a66b.chunk.css.map",
+    "static/js/2.96d34ddb.chunk.js.LICENSE.txt": "/grooveo/static/js/2.96d34ddb.chunk.js.LICENSE.txt",
+    "static/media/1.5eb417fc.mp3": "/grooveo/static/media/1.5eb417fc.mp3",
+    "static/media/2.37c82282.mp3": "/grooveo/static/media/2.37c82282.mp3",
+    "static/media/3.52c24c81.mp3": "/grooveo/static/media/3.52c24c81.mp3",
+    "static/media/4.230fcab8.mp3": "/grooveo/static/media/4.230fcab8.mp3",
+    "static/media/5.27bdc145.mp3": "/grooveo/static/media/5.27bdc145.mp3",
+    "static/media/6.3e1411b4.mp3": "/grooveo/static/media/6.3e1411b4.mp3",
+    "static/media/7.2d08c654.mp3": "/grooveo/static/media/7.2d08c654.mp3",
+    "static/media/8.f77c6da4.mp3": "/grooveo/static/media/8.f77c6da4.mp3",
+    "static/media/9.f2d668af.mp3": "/grooveo/static/media/9.f2d668af.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeaa694d.js",
+    "static/js/2.96d34ddb.chunk.js",
+    "static/css/main.34e5a66b.chunk.css",
+    "static/js/main.ce1dfa39.chunk.js"
+  ]
+}
